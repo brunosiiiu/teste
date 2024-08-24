@@ -1,0 +1,14 @@
+=>sqlserver:
+usuario=sa
+senha=Admin123
+
+=>postgresql
+usuario:postgres
+senha:Admin123
+
+=>mysql
+usuario:root
+senha: (sem senha)
+
+=>
+
